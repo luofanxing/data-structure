@@ -68,7 +68,14 @@ public class SortUtils {
 
 
     /**
-     *归并排序
+     * 归并排序
      */
     public static void mergeSort(int[] array){}
+
+
+
+    /**
+     * 桶排序
+     */
+    public static void bucketSort(int[] array){}
 }
