@@ -78,4 +78,11 @@ public class SortUtils {
      * 桶排序
      */
     public static void bucketSort(int[] array){}
+
+
+
+    /**
+     * 堆排序
+     */
+    public static void headSort(int[] array){}
 }
