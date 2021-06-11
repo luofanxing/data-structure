@@ -67,7 +67,8 @@ public class SortUtils {
     public static void quickSort(int[] array){}
 
 
-
-
-
+    /**
+     *归并排序
+     */
+    public static void mergeSort(int[] array){}
 }
