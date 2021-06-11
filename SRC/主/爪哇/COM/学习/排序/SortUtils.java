@@ -85,33 +85,4 @@ public class SortUtils {
      * 堆排序
      */
     public static void headSort(int[] array){}
-
-  /**
-     * dev02 update
-     */
-
-  /**
-     * dev02 update
-     */
-  /**
-     * dev02 update
-     */
-
-
-    /**
-     * dev02 update
-     */
-
-    /**
-     * master01 update
-     * master 01 update
-     */
-    /**
-     * master01 update
-     * master 01 update
-     */
-    /**
-     * master01 update
-     * master 01 update
-     */
 }
