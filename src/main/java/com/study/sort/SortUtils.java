@@ -60,4 +60,14 @@ public class SortUtils {
 
 
 
+    /**
+     * 快速排序
+     * @param array
+     */
+    public static void quickSort(int[] array){}
+
+
+
+
+
 }
